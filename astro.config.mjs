@@ -16,5 +16,6 @@ export default defineConfig({
       target: '_blank'
     }]]
   },
+  output: 'server',
   adapter: deno()
 });

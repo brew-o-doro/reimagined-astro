@@ -15,7 +15,7 @@ Essentially, Sinatra is Ruby Gem which speeds up the process of creating web app
 ### Sinatra & Corneal what is not to love?
 I have to shout-out a special Sinatra skeleton that creates the basic file structures for a creating a quick web application. Corneal is literally a life save that takes out all the intitial tedious work that is related towards creating a basic application. Corneal will set up a file structure in this manner:
 
-```text
+```plaintext
 Directory structure:
 
 ├── config.ru
